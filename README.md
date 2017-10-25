@@ -16,7 +16,7 @@
 1. [第2课第5节_Java面向对象编程_异常_N](http://www.baidu.com)
 1. [第2课第6节_Java面向对象编程_包和权限_N](http://www.baidu.com)
 1. [第2课第7节_Java面向对象编程_内部类_N](http://www.baidu.com)
-1. [第3课_JNI_N](http://www.baidu.com)
+1. [第3课_JNI_N](第一部份Java快速入门/src/java源码/13th_jni)
 1. [第3课第2节_JNI_C调用JAVA_N](http://www.baidu.com)
 1. [第4课第1节_Java高级应用_泛型_N](http://www.baidu.com)
 1. [第4课第2节_Java高级应用_反射(New2)_N](http://www.baidu.com)
