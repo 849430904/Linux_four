@@ -120,7 +120,9 @@
 1. [第2课第1节_Android灯光系统_led_class驱动_N](http://m.blog.csdn.net/qq_33443989/article/details/76862395)
 
   [代码](https://github.com/weidongshan/DRV_0001_LEDS/blob/master/leds_4412.c)
-1. [第2课第2节_Android灯光系统_编写HAL_lights.c_N](http://m.blog.csdn.net/qq_33443989/article/details/77074411)
+1. [第2课第2节_Android灯光系统_编写HAL_lights.c_N](http://m.blog.csdn.net/qq_33443989/article/details/77074411) 
+
+  [代码](https://github.com/weidongshan/SYS_0002_Lights)
 1. [第4课第1节_Android灯光系统_总体框架_N](http://www.baidu.com)
 1. [第4课第4节_Android灯光系统_源码分析_电池灯_N](http://www.baidu.com)
 1. [第4课第5节_Android灯光系统_源码分析_通知灯_N](http://www.baidu.com)
