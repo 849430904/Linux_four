@@ -89,9 +89,14 @@
 1. [第1课第4.1节_Android硬件访问服务框架](http://blog.csdn.net/ab198604/article/details/51272101)
 
 	[代码](https://github.com/weidongshan/DRV_0001_LEDS.git)
-1. [第1课第4.2节_Android硬件访问服务编写系统代码_N](http://www.baidu.com)
-1. [第1课第4.3节_Android硬件访问服务编写APP代码_N](http://www.baidu.com)
-1. [第1课第4.4节_Android硬件访问服务编写HAL代码_N](http://www.baidu.com)
+1. [第1课第4.2节_Android硬件访问服务编写系统代码_N](http://blog.csdn.net/ab198604/article/details/51397586)
+
+	[代码](https://github.com/weidongshan/SYS_0001_LEDDemo/tree/v1) [git导出方法](git clone https://github.com/weidongshan/SYS_0001_LEDDemo.git)
+1. [第1课第4.3节_Android硬件访问服务编写APP代码_N](http://blog.csdn.net/fengyuwuzu0519/article/details/73864567) 
+
+   [APP代码](https://github.com/weidongshan/APP_0001_LEDDemo/blob/v7/app/src/main/java/com/thisway/app_0001_leddemo/MainActivity.java)  [底层代码](https://github.com/weidongshan/SYS_0001_LEDDemo/tree/v2)
+1. [第1课第4.4节_Android硬件访问服务编写HAL代码_N](http://m.blog.csdn.net/qq_33443989/article/details/76788921)
+  [代码](https://github.com/weidongshan/SYS_0001_LEDDemo/tree/v2)
 1. [第1课第4.5节_Android硬件访问服务使用反射_N](http://www.baidu.com)
 
 ------------
