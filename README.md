@@ -31,7 +31,7 @@
 
 ------------
 1. [第1课第1节_c++类的引入_N](第二部份C++快速入门/cpp_projects/01th_oop)
-1. [第2课第1节_c++基础知识_访问控制(New1)_N](http://www.baidu.com)
+1. [第2课第1节_c++基础知识_访问控制(New1)_N](第二部份C++快速入门/cpp_projects/02th_accesscontrol)
 1. [第2课第2节_c++基础知识_程序结构(New1)_N](http://www.baidu.com)
 1. [第2课第3节_c++基础知识_重载_指针_引用(New1)_N](http://www.baidu.com)
 1. [第2课第4节_c++基础知识_构造函数(New1)_N](http://www.baidu.com)
