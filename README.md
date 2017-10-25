@@ -17,9 +17,9 @@
 1. [第2课第6节_Java面向对象编程_包和权限_N](http://www.baidu.com)
 1. [第2课第7节_Java面向对象编程_内部类_N](http://www.baidu.com)
 1. [第3课_JNI_N](第一部份Java快速入门/src/java源码/13th_jni)
-1. [第3课第2节_JNI_C调用JAVA_N](http://www.baidu.com)
-1. [第4课第1节_Java高级应用_泛型_N](http://www.baidu.com)
-1. [第4课第2节_Java高级应用_反射(New2)_N](http://www.baidu.com)
+1. [第3课第2节_JNI_C调用JAVA_N](第一部份Java快速入门/src/java源码/14th_Inner)
+1. [第4课第1节_Java高级应用_泛型_N](第一部份Java快速入门/src/java源码/15th_Generics)
+1. [第4课第2节_Java高级应用_反射(New2)_N](第一部份Java快速入门/src/java源码/16th_Reflect)
 
 
 
@@ -30,7 +30,7 @@
 ##  第2部份：C++快速入门
 
 ------------
-1. [第1课第1节_c++类的引入_N](http://www.baidu.com)
+1. [第1课第1节_c++类的引入_N](第二部份C++快速入门/cpp_projects/01th_oop)
 1. [第2课第1节_c++基础知识_访问控制(New1)_N](http://www.baidu.com)
 1. [第2课第2节_c++基础知识_程序结构(New1)_N](http://www.baidu.com)
 1. [第2课第3节_c++基础知识_重载_指针_引用(New1)_N](http://www.baidu.com)
