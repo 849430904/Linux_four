@@ -97,22 +97,30 @@
    [APP代码](https://github.com/weidongshan/APP_0001_LEDDemo/blob/v7/app/src/main/java/com/thisway/app_0001_leddemo/MainActivity.java)  [底层代码](https://github.com/weidongshan/SYS_0001_LEDDemo/tree/v2)
 1. [第1课第4.4节_Android硬件访问服务编写HAL代码_N](http://m.blog.csdn.net/qq_33443989/article/details/76788921)
   [代码](https://github.com/weidongshan/SYS_0001_LEDDemo/tree/v2)
-1. [第1课第4.5节_Android硬件访问服务使用反射_N](http://www.baidu.com)
+1. [第1课第4.5节_Android硬件访问服务使用反射_N](http://m.blog.csdn.net/qq_33443989/article/details/76794460)
 
+  [代码](https://github.com/weidongshan/APP_0001_LEDDemo/blob/v8/app/src/main/java/com/thisway/app_0001_leddemo/MainActivity.java)
+  
 ------------
 
 ### Android基础知识
 
 ---
-1. [第3课第1节_基础知识Android消息处理机制_N](http://www.baidu.com)
-1. [第3课第2节_基础知识ArrayMap_N](http://www.baidu.com)
+1. [第3课第1节_基础知识Android消息处理机制_N](http://www.cnblogs.com/angeldevil/p/3340644.html)
+
+  [代码](https://github.com/weidongshan/APP_Addons_0001_Message/blob/v3/app/src/main/java/com/thisway/app_addons_0001_message/MainActivity.java) [代码2](https://github.com/weidongshan/APP_Addons_0001_Message/blob/v4/app/src/main/java/com/thisway/app_addons_0001_message/MainActivity.java)   [img](第三部份Android系统/文档_图片/Android基础知识_消息处理机制.jpg)
+    
+1. [第3课第2节_基础知识ArrayMap_N](http://www.cnblogs.com/huanyou/p/5985303.html)
+   [代码](https://github.com/weidongshan/APP_Addons_0001_Message/blob/v3/app/src/main/java/com/thisway/app_addons_0001_message/MainActivity.java)  [img]([img](第三部份Android系统/文档_图片/Android基础知识_ArrayMap.jpg))
 ------------
 
 ### 灯光系统
 
 ------------
-1. [第2课第1节_Android灯光系统_led_class驱动_N](http://www.baidu.com)
-1. [第2课第2节_Android灯光系统_编写HAL_lights.c_N](http://www.baidu.com)
+1. [第2课第1节_Android灯光系统_led_class驱动_N](http://m.blog.csdn.net/qq_33443989/article/details/76862395)
+
+  [代码](https://github.com/weidongshan/DRV_0001_LEDS/blob/master/leds_4412.c)
+1. [第2课第2节_Android灯光系统_编写HAL_lights.c_N](http://m.blog.csdn.net/qq_33443989/article/details/77074411)
 1. [第4课第1节_Android灯光系统_总体框架_N](http://www.baidu.com)
 1. [第4课第4节_Android灯光系统_源码分析_电池灯_N](http://www.baidu.com)
 1. [第4课第5节_Android灯光系统_源码分析_通知灯_N](http://www.baidu.com)
